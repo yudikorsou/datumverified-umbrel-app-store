@@ -2,7 +2,7 @@ manifestVersion: 1
 id: datumverified-datum-verified
 category: bitcoin
 name: DATUMVerified
-version: "1.0.0"
+version: "1.0.1"
 tagline: Verify DATUM Gateway miners in your own Discord and Telegram communities
 icon: https://raw.githubusercontent.com/yudikorsou/datumverified-umbrel-app-store/main/assets/icon.png
 description: >-
@@ -20,7 +20,7 @@ description: >-
 
   For Telegram, create one bot with BotFather, add it to each community as an admin with Invite users and Ban users, send /chatid in each community, and add those chat ids here. Members verify once and sending unlocks in every configured chat.
 releaseNotes: >-
-  First community release of DATUMVerified for umbrelOS.
+  Fix settings fields clearing while typing. Status refresh no longer rewrites the form.
 developer: yudikorsou
 website: https://github.com/yudikorsou/datum-gateway-verify-bot
 dependencies: []
