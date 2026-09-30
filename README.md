@@ -1,6 +1,6 @@
-# DATUMVerified App Store for Umbrel
+# DATUM Verified App Store for Umbrel
 
-This community app store lets anyone install **DATUMVerified** on umbrelOS and run the DATUM Gateway Discord and Telegram verify bots on their own homeserver.
+This community app store lets anyone install **DATUM Verified** on umbrelOS and run the DATUM Gateway Discord and Telegram verify bots on their own homeserver.
 
 ## Install on Umbrel
 
@@ -12,7 +12,7 @@ This community app store lets anyone install **DATUMVerified** on umbrelOS and r
 https://github.com/yudikorsou/datumverified-umbrel-app-store
 ```
 
-4. Install **DATUMVerified**.
+4. Install **DATUM Verified**.
 5. Open the app and paste your Discord and/or Telegram bot tokens.
 
 Members then use `/verify` in your community. The bots stay on your Umbrel and recheck DATUM Gateway shares every 24 hours.
